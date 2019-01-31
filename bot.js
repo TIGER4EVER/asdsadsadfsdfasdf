@@ -591,7 +591,7 @@ client.on("message", message => {
       .setURL(' https://discord.gg/ZnPDHaA ')
       .setColor("RANDOM")
       .setFooter('© Premium Bot :heart: جميع الحقوق محفوظة 2018 لــبوت')  
-      .addField('سيرفر الدعم الفني', ` https://discord.gg/ZnPDHaA  `)
+      .addField('سيرفر الدعم الفني', ` https://discord.gg/BgxH3zf  `)
   message.author.send({embed});
 
  }
